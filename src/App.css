@@ -3,18 +3,18 @@
     height: 60px;
     padding: 10px;
     background-color: #0e0e0e;
+    display: flex;
+    justify-content: space-between;
     z-index: 1;
     transition: 0.3s;
   }
   
 .main {
-    width: 70%;
     background-color: #8e7c7c;
     transition: 0.3s;
   }
   
 .aside {
-    width: 30%;
     background-color: #ffecec;
     transition: 0.3s;
   }
